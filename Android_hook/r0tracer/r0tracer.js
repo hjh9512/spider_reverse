@@ -481,7 +481,6 @@ function main() {
     // traceClass("ViewController")
     //B. 黑白名单trace多个函数，第一个参数是白名单(包含关键字)，第二个参数是黑名单(不包含的关键字)
     // hook("com.uzmap.pkg.EntranceActivity", "$");
-    hook("ViewController","UI")
     //C. 报某个类找不到时，将某个类名填写到第三个参数，比如找不到com.roysue.check类。（前两个参数依旧是黑白名单）
     // hook("com.roysue.check"," ","com.roysue.check");    
     //D. 新增hookALL() 打开这个模式的情况下，会hook属于app自己的所有业务类，小型app可用 ，中大型app几乎会崩溃，经不起

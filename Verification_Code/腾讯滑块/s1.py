@@ -285,6 +285,7 @@ def get_data():
 
 if __name__ == '__main__':
     tim = time.time()
-    get_data()
+    for i in range(10):
+        get_data()
     print(time.time() - tim)
     # print(get_slide_trackone(60))

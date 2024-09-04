@@ -202,7 +202,7 @@ function coollect(slideValue) {
     // var trajectory = generateMouseTrace();
     var trajectory = slideValue;
     var Chrome_env = '{"cd":[0,"iframe","",' + generateRandomNumber() + ',' + 1704371100 + ',"ANGLE (Intel, Intel(R) HD Graphics 630 (0x00005912) Direct3D11 vs_5_0 ps_5_0, D3D11)","1920-1080-1040-24-*-*-|-*",[360,360],"UTF-8",1023,"",1080,[],"https://new.qq.com/","98k",4,2,' + Math.floor(new Date().getTime() / 1000) + ',"Win32","+08","Google Inc. (Intel)",0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",1477091468,1920,' + Math.floor(new Date().getTime() / 1000) + 72 + ',"",24,0,';
-    var Chrome_canvas = ',"GgoAAAANSUhEUgAAASwAAACWCAYAAA3WEGp4s7r8A/V1/GiuOpCrroHaDYRv/RcZ4PPcPe3QAAAABJRU5ErkJggg==","https://captcha.gtimg.com/1/template/drag_ele.html?rand=1519713624347",["zh-CN","en-US","zh"],0,1,0,2,0],';
+    var Chrome_canvas = ',"GgoAAAANSUhEUgAAASwAAACWCAYAAA3WEGp4s7r8A/V1/GiuOpCrroHaDYRv/RcZ4PPcPe3QAAAABJRU5ErkJggg==","https://captcha.gtimg.com/1/template/drag_ele.html?rand=1519713614347",["zh-CN","en-US","zh"],0,1,0,2,0],';
     // var slide = '"sd":{"od":"C","slideValue":' + slideValue + ',"ft":"qf_7Pf__H"}}';
     var slide = '"sd":{"od":"C","ft":"qf_7Pf__H"}}';
 

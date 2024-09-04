@@ -18,7 +18,6 @@ import cv2
 import numpy as np
 from PIL.ImagePath import Path
 import json
-import execjs
 import random
 import requests
 
